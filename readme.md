@@ -1,3 +1,4 @@
 # Informatikwerkstatt Namensverzeichnis
 
 * Philipp
+* Niklas

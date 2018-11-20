@@ -2,3 +2,5 @@
 
 * Philipp
 * Niklas
+* Nikita
+* 
